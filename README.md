@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadjieb08&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-- 👋 Hai Gw [`nadjieb08`](https://github.com/nadjieb08)
+- 👋 Hai Gw [`nadjieb08`](https://github.com/nadjieb26)
 - 🧍 I'm Live In Polewali Mandar
 - 🧑‍🦱 I'm School in SMA 3 POLEWALI MANDAR 
 - 😁 I'm 15 years old 
